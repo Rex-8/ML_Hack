@@ -1,0 +1,13 @@
+Feature,Importance
+distance_to_arc,0.6044592
+projection_fraction,0.14979699
+heading_difference,0.094640225
+perpendicular_distance,0.033053055
+gps_displacement,0.024786703
+arc_length,0.018840816
+gps_heading,0.017694546
+distance_to_arc_end,0.016969554
+distance_to_arc_start,0.01659699
+arc_heading,0.012770144
+gps_speed,0.006790801
+time_difference,0.0036009697
